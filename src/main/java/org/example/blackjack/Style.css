@@ -1,0 +1,8 @@
+.list-view .list-cell:even {
+    -fx-background-color: ForestGreen;
+    -fx-text-fill: ForestGreen;
+}
+.list-view .list-cell:odd {
+    -fx-background-color: ForestGreen;
+    -fx-text-fill: ForestGreen;
+}
